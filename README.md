@@ -13,6 +13,15 @@ A mentor-support dashboard predicting end-of-program success from early attendan
 3. Filter the cohort, select an intern with **Review**, and move the prediction sliders. Probabilities and guidance update immediately.
 4. Use **Model quality** to inspect held-out metrics and charts. No Python, internet, account or server is required to view the app.
 
+## Live Project
+
+- **Live Dashboard:** [Open the interactive dashboard](https://sajidexpertise.github.io/Intern-Performance-Prediction-Dashboard-Task-3-InterneePk/)
+- **GitHub Repository:** [View source code](https://github.com/sajidexpertise/Intern-Performance-Prediction-Dashboard-Task-3-InterneePk)
+- **Portfolio:** [sajidexpertise.vercel.app](https://sajidexpertise.vercel.app/)
+- **LinkedIn:** [linkedin.com/in/sajidexpertise](https://www.linkedin.com/in/sajidexpertise)
+
+> The live-dashboard link becomes active after GitHub Pages is enabled for this repository.
+
 ## Included analysis image
 
 ![Held-out model evaluation charts](dist/model_evaluation.png)
