@@ -1,0 +1,21 @@
+INTERN PERFORMANCE PREDICTION USING MACHINE LEARNING
+
+1. Extract the entire ZIP.
+2. Double-click index.html in the main folder, or OPEN_DASHBOARD.bat on Windows.
+3. No Python setup is needed for the interactive dashboard.
+4. Select a department; watch the KPI cards, five cohort charts and table update.
+5. Click Review beside an intern; move the four sliders.
+6. Download the personalized guidance and filtered CSV.
+7. Read Model quality and Methodology before presenting the project.
+
+The data is synthetic. Ask your assessor if this is permitted before submission.
+The training pipeline and numerical export tests have been run successfully.
+Browser visual/end-to-end testing has not been performed in this environment.
+Real GitHub, LinkedIn and live links are created only when you publish.
+
+Suggested GitHub repository: Intern_Performance_Prediction_ML_InterneePk
+Description: Early-engagement success prediction with scikit-learn, an offline
+interactive dashboard, held-out evaluation and personalized mentor guidance.
+
+The brief did not specify a task number; add the correct portal task number
+when naming your repository and LinkedIn post.
