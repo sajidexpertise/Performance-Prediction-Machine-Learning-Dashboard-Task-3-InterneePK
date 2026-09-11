@@ -15,8 +15,7 @@ A mentor-support dashboard predicting end-of-program success from early attendan
 
 ## Live Project
 
-- **Live Dashboard:** [Open the interactive dashboard] https://sajidexpertise.github.io/Performance-Prediction-Machine-Learning-Dashboard-Task-3-InterneePK/
-- **GitHub Repository:** [View source code](https://github.com/sajidexpertise/Intern-Performance-Prediction-Dashboard-Task-3-InterneePk)
+- **Live Dashboard:** [Open the interactive dashboard] (https://sajidexpertise.github.io/Performance-Prediction-Machine-Learning-Dashboard-Task-3-InterneePK/)
 - **Portfolio:** [sajidexpertise.vercel.app](https://sajidexpertise.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/sajidexpertise](https://www.linkedin.com/in/sajidexpertise)
 
